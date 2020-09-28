@@ -2,12 +2,12 @@ title: TruteOrDare
 description: >
   A blog that records my interest in Data Science.
 permalink: ':title/'
-url: 'www.truteordare.co.uk'
+url: 'truteordare.github.io'
 
 author: Jack Trute
 author-img: 'profile.png'
 about-author: I'm a Software Developer exploring Data Science.
-social-twitter: '@truteordare'
+social-twitter: 'truteordare'
 social-github: 'truteordare'
 social-email: 'contactme@truteordare.co.uk'
 
